@@ -1,1 +1,1 @@
-echo "Welcome to Jenkins"
+echo "Welcome to Jenkins" on "%date%" at "%time%" 
