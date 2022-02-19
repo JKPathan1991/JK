@@ -1,1 +1,1 @@
-echo "Welcome to Jenkins" on $date 
+echo "Hi Juber Welcome to you first Jenkins Pipeline with Git"
